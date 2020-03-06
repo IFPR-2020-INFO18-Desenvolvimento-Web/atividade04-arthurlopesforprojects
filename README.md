@@ -2,8 +2,8 @@
 
 ## Equipe
 
-- Edite com o nome do Aluno 1
-- Edite com o nome do Aluno 2 (caso haja)
+- Arthur Lopes dos Santos
+- Weslley Moro
 
 ## Descrição da Atividade
 
