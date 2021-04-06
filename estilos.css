@@ -5,6 +5,7 @@
 html {
   /* Barra de rolagem vertical sempre visível */
   overflow-y: scroll;
+  overflow-x: scroll;
 }
 
 body {
@@ -62,7 +63,7 @@ a {
   margin-top: 20px;
 }
 
-.cabecalho img {
+.cabecalho .logo_if {
   width: 300px;
   margin-right: 10px;
 }
@@ -76,6 +77,10 @@ a {
 .cabecalho h2 {
   font-size: 160%;
   color: #008903;
+}
+
+.cabecalho h3 {
+  text-align: end;
 }
 
 .rodape img {
@@ -174,4 +179,24 @@ a {
 
 .pessoas{
   text-align: center;
+}
+
+.cursos{
+  text-align: justify;
+  line-height: 150%;
+  text-indent: 3em;
+}
+
+h4 {
+  padding-top: 10px;
+}
+
+.estrutura{
+  text-align: justify;
+  line-height: 150%;
+}
+
+.forms{
+  padding: 10px;
+  background-color: #cbdfcc;
 }
